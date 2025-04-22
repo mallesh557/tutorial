@@ -5,3 +5,16 @@
     align-items: center;
     background-color: aqua;
 }
+.bt{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	margin:10px;
+	color:white;
+}
+.r{
+	background-color:blue;
+}
+.j{
+	background-color:green;
+}
